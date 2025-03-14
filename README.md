@@ -1,32 +1,28 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18689404&assignment_repo_type=AssignmentRepo)
-# SE_Day1
-Software Engineering Day1 Assignment
+SE_Day1_Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is a branch of computer science used for developing, testing and maintaining software.
+1.Explain what software engineering is and discuss its importance in the technology industry
+software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
  scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
  security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
-Mastering Complexity – The introduction of structured programming (1970s) helped developers break down complex software into manageable modules, improving readability and maintainability.
+2.Identify and describe at least three key milestones in the evolution of software engineering.  
+.mastering complexity
+Mastering process
+Mastering machine
 
-Mastering Process – The rise of software development methodologies like Waterfall (1970s) and Agile (2000s) improved project management, collaboration, and adaptability in software development.
-
-Mastering Machine – Advancements in programming languages, from assembly to high-level languages (1950s–1980s), and later automation tools, made software development more efficient and accessible.
 
 List and briefly explain the phases of the Software Development Life Cycle.
  planning - identify the software requirement or purpose and scope.
  requirement analysis - identify the final user specification. 
- design - building the framework. 
- coding - converting software design into tangible code.
+design - building the framework. 
+coding - converting software design into tangible code.
  testing - examine the software for any bugs and glitches
-
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
@@ -76,7 +72,6 @@ Change Tracking: Records detailed history of changes, allowing easy analysis of 
 -Branching and Merging: Supports creating branches for new features and merging them back into the main code.
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 -rapid technological advancement places considerable pressure on software engineers to stay current.
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
@@ -91,9 +86,7 @@ Solution: research ways to defend against hacking, malware, phishing, insider an
 Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
 Solution: Use scalable architecture, Emphasize reliability.
 
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-their importance in software quality assurance.
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
  Integration tests - verify that different modules or services used by your application work well together.
  - help to ensure data flows smoothly between modules and interfaces work as expected.
@@ -101,10 +94,7 @@ Unit tests - are close to the source of an application, They consist in testing 
  -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
 Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
 - Whether the software meets the needs of the end-user and is ready for deployment.
-
-
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
@@ -114,7 +104,9 @@ Increased flexibility - A prompt engineer can create prompts with domain-neutral
 developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Draw a picture of a person
 Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
 Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
 Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
 Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
+
